@@ -2,4 +2,6 @@
 
 Upload image to BlobStore 
 
-### GoogleAppEngine
+### Server
+
+Google App Engine
